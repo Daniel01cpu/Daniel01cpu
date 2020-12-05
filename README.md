@@ -5,7 +5,7 @@
 
 - 📫  How to reach me: danielavelar.dev
 
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img  
+<p src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJavaScript-logo.png&psig=AOvVaw1DlGbMmUjEIlmvchlzI68g&ust=1607286653437000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDtlcLXt-0CFQAAAAAdAAAAABAI/> <img  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joerez&show_icons=true" alt="joerez" /></p>
 
 
