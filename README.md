@@ -5,8 +5,7 @@
 
 - 📫  How to reach me: danielavelar.dev
 
-<p src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJavaScript-logo.png&psig=AOvVaw1DlGbMmUjEIlmvchlzI68g&ust=1607286653437000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDtlcLXt-0CFQAAAAAdAAAAABAI/> <img  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joerez&show_icons=true" alt="joerez" /></p>
+<p src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.pngcenter" src="https://github-readme-stats.vercel.app/api?username=joerez&show_icons=true" alt="joerez" /></p>
 
 
 
